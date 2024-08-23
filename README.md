@@ -1,6 +1,6 @@
 Here's an updated README file tailored to your Solidity project:
 
-```markdown
+
 # BlockLearn: Decentralized Learning Analytics on Ethereum
 
 ## Vision
