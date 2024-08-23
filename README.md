@@ -1,10 +1,10 @@
 <img width="212" alt="Screenshot 2024-08-23 at 12 45 05 PM" src="https://github.com/user-attachments/assets/1edc3b57-77ed-4ff3-bbb5-327a14e8e1ea">
 
-# BlockLearn: Decentralized Learning Analytics on Ethereum
+# BlockLearn: Decentralized Learning Analytics on EduChain
 
 
 ## Vision
-BlockLearn is a decentralized platform for managing and sharing student profiles, skills, and achievements in a transparent, trustless environment. Built on the Ethereum blockchain, BlockLearn offers a secure and tamper-proof method for showcasing learning progress while promoting data privacy and ownership.
+BlockLearn is a decentralized platform for managing and sharing student profiles, skills, and achievements in a transparent, trustless environment. Built on the EduChain blockchain, BlockLearn offers a secure and tamper-proof method for showcasing learning progress while promoting data privacy and ownership.
 
 ## Flowchart
 ```text
